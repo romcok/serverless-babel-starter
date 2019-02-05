@@ -22,9 +22,6 @@
     ],
     "rules": {
       "import/no-unresolved": "error"
-    },
-    "import/resolver": {
-      "typescript": {},
     }
   }
 }
